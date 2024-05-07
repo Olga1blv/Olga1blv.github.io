@@ -1,0 +1,30 @@
+h4 {
+    
+    border-bottom: 2px solid #FF5C00;
+    text-align: left;
+    width: 270px;
+    
+}
+h1 {
+    border-bottom: 4px solid #FF5C00;
+    text-align: left;
+    width: 270px;
+}
+h2 {
+    padding-top: 20px;
+}
+* {
+    color: #390d0d;
+    background-color: rgb(249, 245, 217);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+p {
+width: 470px;
+}
+
+article {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
